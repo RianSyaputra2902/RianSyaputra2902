@@ -1,7 +1,7 @@
 <?php
-$conn_string = "john.db.elephantsql.com " . 
-  "port=5432 dbname=zfblrwcz " .
-  "user=zfblrwcz " . 
+$conn_string = "john.db.elephantsql.com" . 
+  "port=5432 dbname=zfblrwcz" .
+  "user=zfblrwcz" . 
   "password=JVzibiIzivwBxbc2ISZeP9gY31ocfYXq";
 $conn = pg_connect($conn_string);
 
