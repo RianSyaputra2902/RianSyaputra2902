@@ -1,5 +1,5 @@
 <?php
-$conn_string = "john.db.elephantsql.com" . 
+$conn_string = "host = john.db.elephantsql.com" . 
   "port=5432 dbname=zfblrwcz" .
   "user=zfblrwcz" . 
   "password=JVzibiIzivwBxbc2ISZeP9gY31ocfYXq";
